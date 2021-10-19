@@ -1,0 +1,31 @@
+## Ajouter des documents (images, pdf, ...)
+
+Pour les images : dans `assets/images`
+
+Pour les PDF: dans `assets/pdf`
+
+Si besoin, créer un nouveau dossier.
+
+## Ajouter un post
+
+Dans `_posts`, créer un fichier date-titre.markdown.
+
+La date doit être au format AAAA-MM-JJ pour le tri, le titre au plus simple possible.
+
+Dans le fichier markdown, il y a une entête :
+
+```
+---
+layout: post
+title: "Le titre"
+date: AAAA-MM-JJ HH:MM:SS +0200
+---
+```
+
+Toujour laisser `layout: post`, remplacer le titre et la date.
+
+Le reste du fichier est le contenu affiché sur la page, écrit en Markdown ([aide](https://gist.github.com/roachhd/779fa77e9b90fe945b0c#file-quick-ref-jekyll-markdown-md)) ou en HTML.
+
+## Utilisation des assets
+
+Exemple: `<a href="{{ site.absoluteurl }}/assets/images/image.png">Link</a>`
