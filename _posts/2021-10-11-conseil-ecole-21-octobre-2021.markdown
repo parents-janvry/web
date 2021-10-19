@@ -18,7 +18,7 @@ L'équipe des parents délégués
 
 **Rappel des conditions d'accès à l'école le matin:**
 
-![Rappel des conditions d'accès à l'école le matin](/assets/images/2021-10-11.jpg)
+![Rappel des conditions d'accès à l'école le matin]({{ site.baseurl }}/assets/images/2021-10-11.jpg)
 
 L'objectif est d’accueillir vos enfants en toute sécurité par le personnel de l'école.
 
