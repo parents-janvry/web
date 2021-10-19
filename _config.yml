@@ -23,7 +23,7 @@ email: parents-janvry@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Parents d'élèves de l'école de Janvry.
 baseurl: "web" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://parents-janvry.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  parents-janvry
 
