@@ -1,0 +1,55 @@
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+nav {
+  padding: 10px;
+}
+
+nav img {
+  height: 64px;
+}
+
+nav .nav-content {
+  padding-top: 10px;
+  display: flex;
+  align-items: center;
+}
+
+nav .nav-content h5 {
+  margin: 0;
+  margin-left: 10px;
+  line-height: 56px;
+}
+
+main {
+  padding: 0 10px;
+}
+
+main hr {
+  border: 1px dashed #ee6e73;
+}
+
+.post img {
+  max-height: 256px;
+  max-width: 256px;
+}
+
+strong {
+  font-weight: 700 !important;
+}
+
+ul {
+  list-style-type: square !important;
+  padding-left: 20px !important;
+}
+
+li {
+  list-style-type: square !important;
+}
