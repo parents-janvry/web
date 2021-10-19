@@ -5,11 +5,4 @@ description: Parents d'élèves de l'école de Janvry.
 domain: parents-janvry.github.io
 url: https://parents-janvry.github.io
 baseurl: web
-
-twitter_username: 
-github_username:  parents-janvry
-
-# Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+absoluteurl: https://parents-janvry.github.io/web

@@ -22,7 +22,7 @@ Si vous avez lu jusqu'ici, merci, mais ce n'est pas fini 👇
 
 **Soutien à l'association ELA**
 
-![Soutien à l'association ELA]({{ site.baseurl }}/assets/images/2021-10-10-1.jpg)
+![Soutien à l'association ELA]({{ site.absoluteurl }}/assets/images/2021-10-10-1.jpg)
 
 **Entre le 18 et le 22 Octobre**
 
@@ -36,7 +36,7 @@ Pour transformer leurs efforts en dons, vos enfants vous remettront **un carnet 
 
 **Semaine du goût**
 
-![Semaine du goût]({{ site.baseurl }}/assets/images/2021-10-10-2.jpg)
+![Semaine du goût]({{ site.absoluteurl }}/assets/images/2021-10-10-2.jpg)
 
 Cette semaine, nos enfants vont **développer leurs papilles gustatives** lors de 4 repas à thème.
 
@@ -54,9 +54,9 @@ Merci aux parents qui œuvrent dans l'ombre 👏
 
 Les calendriers définitifs sont disponibles ci-dessous:
 
-[Calendrier TAP Anglais]({{ site.baseurl }}/assets/pdf/Groupes-TapAnglais 2021-2022 v6.pdf){:target="\_blank"}{:class="waves-effect waves-light btn"}
+[Calendrier TAP Anglais]({{ site.absoluteurl }}/assets/pdf/Groupes-TapAnglais 2021-2022 v6.pdf){:target="\_blank"}{:class="waves-effect waves-light btn"}
 
-[Calendrier TAP Poney]({{ site.baseurl }}/assets/pdf/Groupes-TapPoney2021-22-v1.pdf){:target="\_blank"}{:class="waves-effect waves-light btn"}
+[Calendrier TAP Poney]({{ site.absoluteurl }}/assets/pdf/Groupes-TapPoney2021-22-v1.pdf){:target="\_blank"}{:class="waves-effect waves-light btn"}
 
 C'est tout, pour le moment!
 
